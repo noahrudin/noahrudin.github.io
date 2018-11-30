@@ -1,0 +1,21 @@
+{
+  "name": "noah",
+  "title": "Noah Rudin",
+  "version": "1.0",
+  "homepage": "",
+  "author": "Noah Rudin",
+  "license": {
+    "type": "",
+    "url": ""
+  },
+  "devDependencies": {
+    "bootstrap": "^4.1.2",
+    "browser-sync": "^2.13.0",
+    "font-awesome": "^4.6.3",
+    "jquery": "^3.0.0"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  }
+}
