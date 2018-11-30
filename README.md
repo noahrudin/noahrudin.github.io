@@ -1,4 +1,4 @@
-# [Noah Rudin Website](https://www.linkedin.com/in/noahrudin/)
+# [Noah Rudin Website](https://noahrudin.github.io/)
 
 This website ports my resume to a webpage, which shares personal traits as well as qualifications and past experiences.
 
