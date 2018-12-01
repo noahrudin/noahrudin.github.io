@@ -548,8 +548,9 @@ section#skills .text-grayed{
 section#sample .section-heading{
   color: #18435f;
 }
-section#sample .portfolio-caption{
+section#sample .sample-caption{
   color: #18435f;
+  padding-bottom: 50px;
 }
 section#sample .text-grayed {
   color: #222222;
